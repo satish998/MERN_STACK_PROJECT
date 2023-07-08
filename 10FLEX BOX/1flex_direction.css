@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+section{
+    width: 80%;
+    height:250px;
+    background-color: blueviolet;
+    margin: 0 auto;
+    border: 5px solid red;
+    display: flex  ;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    flex-wrap: wrap;
+}
+section div{
+    width: 200px;
+    height: 100px;
+}
